@@ -1,0 +1,75 @@
+{
+  "users":[
+  {
+    "id": 1,
+    "first_name": "Aldwin",
+    "last_name": "Larvor",
+    "email": "alarvor0@fotki.com",
+    "gender": "Male"
+  },
+  {
+    "id": 2,
+    "first_name": "Lacy",
+    "last_name": "Waller",
+    "email": "lwaller1@newyorker.com",
+    "gender": "Female"
+  },
+  {
+    "id": 3,
+    "first_name": "Colette",
+    "last_name": "Owens",
+    "email": "cowens2@accuweather.com",
+    "gender": "Female"
+  },
+  {
+    "id": 4,
+    "first_name": "Zarla",
+    "last_name": "Adolfsen",
+    "email": "zadolfsen3@cargocollective.com",
+    "gender": "Female"
+  },
+  {
+    "id": 5,
+    "first_name": "Sophey",
+    "last_name": "Wallbanks",
+    "email": "swallbanks4@wiley.com",
+    "gender": "Genderqueer"
+  },
+  {
+    "id": 6,
+    "first_name": "Ysabel",
+    "last_name": "Grigorio",
+    "email": "ygrigorio5@shutterfly.com",
+    "gender": "Female"
+  },
+  {
+    "id": 7,
+    "first_name": "Maurise",
+    "last_name": "Kinig",
+    "email": "mkinig6@hud.gov",
+    "gender": "Bigender"
+  },
+  {
+    "id": 8,
+    "first_name": "Vale",
+    "last_name": "Argue",
+    "email": "vargue7@state.gov",
+    "gender": "Male"
+  },
+  {
+    "id": 9,
+    "first_name": "Kris",
+    "last_name": "Yesinov",
+    "email": "kyesinov8@usatoday.com",
+    "gender": "Male"
+  },
+  {
+    "id": 10,
+    "first_name": "Michal",
+    "last_name": "Duke",
+    "email": "mduke9@zdnet.com",
+    "gender": "Female"
+  }
+]
+
+}
